@@ -1,0 +1,17 @@
+/* Increase font size for the About Me section */
+.about-me-section {
+    font-size: 25px; /* Adjust the font size as needed */
+  }
+  
+  /* Style the section title */
+  .section-title {
+    font-size: 50px; /* Adjust the title font size */
+    margin-bottom: 20px;
+  }
+  
+  /* Style the paragraph text */
+  .about-me-content p {
+    font-size: 20px; /* Adjust the paragraph font size */
+    margin-bottom: 20px;
+  }
+  
